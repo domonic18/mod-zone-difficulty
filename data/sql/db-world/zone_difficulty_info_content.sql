@@ -6,6 +6,7 @@ INSERT INTO `zone_difficulty_info` (`MapId`, `PhaseMask`, `HealingNerfValue`, `A
 (229, 0, '0.50', '0.50', '1.50', '1.30', 1, '黑石塔 Healing 50% / Absorb 50% Nerf / 50% physical & 30% spell damage buff'),
 (289, 0, '0.50', '0.50', '1.50', '1.30', 1, '通灵学院 Healing 50% / Absorb 50% Nerf / 50% physical & 30% spell damage buff'),
 (329, 0, '0.50', '0.50', '1.50', '1.30', 1, '斯坦索姆 Healing 50% / Absorb 50% Nerf / 50% physical & 30% spell damage buff'),
+(230, 0, '0.50', '0.50', '1.50', '1.30', 1, '黑石深渊 Healing 50% / Absorb 50% Nerf / 50% physical & 30% spell damage buff'),
 
 
 -- Raids
